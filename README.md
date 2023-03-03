@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 #� �p�i�z�z�a�-�r�a�p�i�d�a�
 �
 �
-![](https://github.com/codejuni/pizza-rapida/blob/main/video.mp4)
+![](https://github.com/codejuni/pizza-rapida/blob/main/pizzas.gif)
